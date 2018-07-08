@@ -4,7 +4,7 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Google Scholar"
   #  url: https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en
-  - title: "About Me"
+  - title: "About me"
     url: /about/
   - title: "Publications"
     url: /publications/
