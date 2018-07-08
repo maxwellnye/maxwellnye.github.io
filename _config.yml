@@ -270,4 +270,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
