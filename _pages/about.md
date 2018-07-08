@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "About"
+title: "About Me"
 permalink: /about/
 comments: true
 author_profile: true
 ---
 
-I am Max.
 ### Education:
 - **MIT** (2017 - present)   
   PhD, Brain and Cogntive Sciences, Advisor: Josh Tenenbaum
