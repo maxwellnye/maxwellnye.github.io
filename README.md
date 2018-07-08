@@ -25,3 +25,4 @@ TODO:
 - [ ] add photo
 - [ ] learn how to make changes without pubbing ... branches?
 - [ ] setup my own hosting
+- [ ] instead use new account, figure out whats currently going on.
