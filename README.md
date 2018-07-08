@@ -24,5 +24,5 @@ TODO:
 - [ ] learn markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 - [ ] add photo
 - [ ] learn how to make changes without pubbing ... branches?
-- [ ] setup my own hosting
+- [ ] ensure it works on maxwellnye.github.io
 - [ ] instead use new account, figure out whats currently going on.
