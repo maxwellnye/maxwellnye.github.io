@@ -5,7 +5,7 @@ This uses the theme minimal-mistakes-jekyll.
 You can read about it here:
 [https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-How to use for future Max:
+How to use (for future Max):
 - the sidebar config is stored in `_config.yml`
 - homepage is simply stored at `index.md` in root folder
 - `_data/navigation.yml` controls what other pages are accessable from top-of-page menu bar. I've made drafts of "About", "Publications", and "Blog". These pages are stored in `_pages/`
@@ -24,5 +24,4 @@ TODO:
 - [ ] learn markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 - [ ] add photo
 - [ ] learn how to make changes without pubbing ... branches?
-- [ ] ensure it works on maxwellnye.github.io
-- [ ] instead use new account, figure out whats currently going on.
+- [X] ensure it works on maxwellnye.github.io
