@@ -6,7 +6,7 @@ I'm a PhD student at MIT, studying AI, machine learning, and human intelligence.
 
 My publications can be found [here]({% link _pages/publications.md %}). 
 
-Before MIT, I studied physics at Harvard.
+I recieved a BA in physics at Harvard.
 
 **News:**  
 - Our paper [Learning to Infer Program Sketches](https://arxiv.org/pdf/1902.06349.pdf) was accepted to ICML 2019
