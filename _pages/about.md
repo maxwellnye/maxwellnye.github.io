@@ -8,6 +8,6 @@ author_profile: true
 
 ### Education:
 - **MIT** (2017 - present)   
-  PhD, Brain and Cogntive Sciences, Advisor: Josh Tenenbaum
+  PhD, Brain and Cogntive Sciences, Subfield: Artificial Intellegence, Advisors: Josh Tenenbaum and Armando Solar-Lezama
 - **Harvard University** (2013 - 2017)   
     BA, Physics, Advisor: Haim Sompolinsky
