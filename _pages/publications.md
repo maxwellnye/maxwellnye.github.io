@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en)
+- Kevin Ellis\*, **Maxwell Nye\***, Yewen Pu\*, Felix Sosa\*, Josh Tenenbaum, Armando Solar-Lezama. **Write, Execute, Assess: Program Synthesis with a REPL.** In submission.
 
 - **Maxwell Nye**, Luke Hewitt, Josh Tenenbaum, Armando Solar-Lezama. **Learning to Infer Program Sketches.** ICML 2019. [paper](https://arxiv.org/pdf/1902.06349.pdf)
 
