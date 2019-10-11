@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en) 
-- Kevin Ellis, Catherine Wong, **Maxwell Nye**, Mathias Sablé-Meyer, Luc Cary, Lucas Morales, Luke Hewitt, Armando Solar-Lezama, Joshua Tenenbaum. **DreamCoder: A wake-sleep algorithm for deep Bayesian program learning.** In prep.
+- Kevin Ellis, Catherine Wong, **Maxwell Nye**, Mathias Sablé-Meyer, Luc Cary, Lucas Morales, Luke Hewitt, Armando Solar-Lezama, Josh Tenenbaum. **DreamCoder: A wake-sleep algorithm for deep Bayesian program learning.** In prep.
 
-- **Maxwell Nye**, Armando Solar-Lezama, Josh Tenenbaum, Brenden Lake. **Learning Compositional Rules via Neural Program Synthesis.** NeurIPS Context and Compositionality in Biological and Artificial Neural Systems Workshop 2019, in press.
+- **Maxwell Nye**, Armando Solar-Lezama, Josh Tenenbaum, Brenden Lake. **Learning Compositional Rules via Neural Program Synthesis.** NeurIPS 2019, Context and Compositionality in Biological and Artificial Neural Systems Workshop, in press.
 
 - Kevin Ellis\*, **Maxwell Nye\***, Yewen Pu\*, Felix Sosa\*, Josh Tenenbaum, Armando Solar-Lezama. **Write, Execute, Assess: Program Synthesis with a REPL.** NeurIPS 2019, in press. [paper](https://arxiv.org/pdf/1906.04604.pdf)
 
