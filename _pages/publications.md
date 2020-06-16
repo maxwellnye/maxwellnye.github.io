@@ -7,9 +7,10 @@ author_profile: true
 classes: wide
 ---
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en) 
-- **DreamCoder: A wake-sleep algorithm for deep Bayesian program learning.**  
+- **DreamCoder: Growing generalizable, interpretable
+knowledge with wake-sleep Bayesian program learning.**  
 Kevin Ellis, Catherine Wong, **Maxwell Nye**, Mathias Sablé-Meyer, Luc Cary, Lucas Morales, Luke Hewitt, Armando Solar-Lezama, Josh Tenenbaum.  
-In prep.
+[arxiv preprint](https://arxiv.org/pdf/2006.08381.pdf)
 
 - **Learning Compositional Rules via Neural Program Synthesis.**  
 **Maxwell Nye**, Armando Solar-Lezama, Josh Tenenbaum, Brenden Lake.  
