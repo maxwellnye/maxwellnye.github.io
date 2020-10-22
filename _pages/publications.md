@@ -14,8 +14,8 @@ Kevin Ellis, Catherine Wong, **Maxwell Nye**, Mathias Sablé-Meyer, Luc Cary, Lu
 
 - **Learning Compositional Rules via Neural Program Synthesis.**  
 **Maxwell Nye**, Armando Solar-Lezama, Josh Tenenbaum, Brenden Lake.  
-[paper](https://arxiv.org/pdf/2003.05562.pdf) [code](https://github.com/mtensor/rulesynthesis)  
-Presented at [NeurIPS 2019 Workshop on Context and Compositionality](https://context-composition.github.io/) as a [spotlight talk](https://slideslive.com/38922749/learning-compositional-rules-via-neural-program-synthesis).
+NeurIPS 2020. [paper](https://arxiv.org/pdf/2003.05562.pdf) [code](https://github.com/mtensor/rulesynthesis)  
+Also presented at [NeurIPS 2019 Workshop on Context and Compositionality](https://context-composition.github.io/) as a [spotlight talk](https://slideslive.com/38922749/learning-compositional-rules-via-neural-program-synthesis).
 
 - **Write, Execute, Assess: Program Synthesis with a REPL.**  
 Kevin Ellis\*, **Maxwell Nye\***, Yewen Pu\*, Felix Sosa\*, Josh Tenenbaum, Armando Solar-Lezama.  
