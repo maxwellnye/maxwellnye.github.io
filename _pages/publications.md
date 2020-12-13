@@ -38,3 +38,5 @@ UAI 2018, oral presentation. [paper](https://arxiv.org/pdf/1807.08919.pdf) [code
 - **Are Efficient Deep Representations Learnable?**  
 **Maxwell Nye**, Andrew Saxe.  
 ICLR 2018, workshop. [paper](https://arxiv.org/pdf/1807.06399.pdf)
+
+*equal contribution
