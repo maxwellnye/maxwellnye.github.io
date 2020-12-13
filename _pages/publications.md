@@ -7,6 +7,11 @@ author_profile: true
 classes: wide
 ---
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en) 
+- **Representing Partial Programs with Blended Abstract Semantics**  
+**Maxwell Nye**, Yewen Pu, Matthew Bowers, Jacob Andreas, Josh Tenenbaum, Armando Solar-Lezama.  
+In submission. [preprint](https://maxwellnye.github.io/pdfs/blendedSemantics.pdf)  
+Also presented at [NeurIPS 2020 Workshop on Computer-Assisted Programming](https://capworkshop.github.io/). 
+
 - **DreamCoder: Growing generalizable, interpretable
 knowledge with wake-sleep Bayesian program learning.**  
 Kevin Ellis, Catherine Wong, **Maxwell Nye**, Mathias Sablé-Meyer, Luc Cary, Lucas Morales, Luke Hewitt, Armando Solar-Lezama, Josh Tenenbaum.  
