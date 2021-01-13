@@ -8,7 +8,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 12px; //I subtracted 2 from all
+  font-size: 12px; //I subtracted 4 from all
 
   @include breakpoint($medium) {
     font-size: 14px;
