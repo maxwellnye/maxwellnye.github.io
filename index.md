@@ -12,7 +12,7 @@ My advisors are [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Arm
 I've spent time as an intern at Facebook AI Research. Before MIT, I received a BA in physics from Harvard.  
 
 ## Updates
-- Our paper [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964.pdf) was acccepted to ICLR 2021.
+- Our paper [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964.pdf) was acccepted to ICLR 2021
 - Presented [Learning Compositional Rules via Neural Program Synthesis](https://arxiv.org/pdf/2003.05562.pdf) at NeurIPS 2020
 - Summer 2020: Internship at Facebook AI with Brenden Lake
 - Presented [Write, Execute, Assess: Program Synthesis with a REPL](https://arxiv.org/pdf/1906.04604.pdf) at NeurIPS 2019
