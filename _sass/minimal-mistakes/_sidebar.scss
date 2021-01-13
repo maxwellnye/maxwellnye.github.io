@@ -8,6 +8,7 @@
 
 .sidebar {
   @include clearfix();
+  padding-top: $masthead-height;
   margin-bottom: 1em;
 
   @include breakpoint(max-width $large) {
