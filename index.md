@@ -51,3 +51,12 @@ UAI 2018, oral presentation. [code](https://github.com/insperatum/vhe)
 ICLR 2018, workshop.
 
 *equal contribution
+
+# Education:
+- **MIT** (2017 - present)   
+  PhD, Brain and Cogntive Sciences  
+   Research Areas: Machine Learning and Program Synthesis  
+   Advisors: Josh Tenenbaum and Armando Solar-Lezama
+- **Harvard University** (2013 - 2017)   
+    BA, Physics  
+    Advisor: Haim Sompolinsky
