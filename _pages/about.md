@@ -4,6 +4,7 @@ title: "About me"
 permalink: /about/
 comments: true
 author_profile: true
+published: false
 ---
 
 ### Education:
