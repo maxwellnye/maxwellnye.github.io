@@ -28,3 +28,4 @@ TODO:
 - [X] remove underline from links: followed jesse mu
 - [ ] visited links may have different color, fix this
 - [ ] could change to Cathy Wong style. See the template she used, also see Jacob's page
+- [ ] you can also put tables directly into the markdown, as in https://mmistakes.github.io/minimal-mistakes/markup/markup-image-alignment/ and https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/_posts/2013-01-10-markup-image-alignment.md
