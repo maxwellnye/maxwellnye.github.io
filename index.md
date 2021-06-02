@@ -32,7 +32,7 @@ Also presented at [NeurIPS 2020 Workshop on Computer-Assisted Programming](https
 - [**DreamCoder: Growing generalizable, interpretable
 knowledge with wake-sleep Bayesian program learning.**](https://arxiv.org/pdf/2006.08381.pdf)  
 Kevin Ellis, Catherine Wong, **Maxwell Nye**, Mathias Sablé-Meyer, Luc Cary, Lucas Morales, Luke Hewitt, Armando Solar-Lezama, Josh Tenenbaum.  
-In submission.
+PLDI 2021.
 
 - [**Learning Compositional Rules via Neural Program Synthesis.**](https://arxiv.org/pdf/2003.05562.pdf)  
 **Maxwell Nye**, Armando Solar-Lezama, Josh Tenenbaum, Brenden Lake.  
