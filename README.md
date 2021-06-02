@@ -20,8 +20,11 @@ How to run:
 
 
 TODO:
-- [ ] add actual content
-- [ ] learn markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-- [ ] add photo
-- [ ] learn how to make changes without pubbing ... branches?
+- [X] add actual content
+- [X] learn markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+- [X] add photo
+- [X] learn how to make changes without pubbing ... branches?
 - [X] ensure it works on maxwellnye.github.io
+- [X] remove underline from links: followed jesse mu
+- [ ] visited links may have different color, fix this
+- [ ] could change to Cathy Wong style. See the template she used, also see Jacob's page
