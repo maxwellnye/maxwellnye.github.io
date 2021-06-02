@@ -130,11 +130,13 @@ a {
     @extend %tab-focus;
   }
 
-  &:hover,
-  &:active {
-    color: $link-color-hover;
-    outline: 0;
-  }
+  // commenting out the 5 lns below gets rid of underlines
+  // &:hover,
+  // &:active {
+  //  color: $link-color-hover;
+  //  outline: 0;
+  // }
+  text-decoration: none;
 
   &:visited {
     color: $link-color-visited;

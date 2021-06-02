@@ -19,7 +19,11 @@ I've spent time as an intern at Facebook AI Research. Before MIT, I received a B
 - Our paper [Learning to Infer Program Sketches](https://arxiv.org/pdf/1902.06349.pdf) was accepted to ICML 2019 and featured on [MIT News](http://news.mit.edu/2019/toward-artificial-intelligence-that-learns-to-write-code-0614)
 
 ## Publications
-An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en) 
+An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en)  
+- **Implicit Representations of Meaning in Neural Language Models.**  
+Belinda Z. Li, **Maxwell Nye**, Jacob Andreas.  
+ACL 2021.
+
 - [**Representing Partial Programs with Blended Abstract Semantics.**](https://arxiv.org/pdf/2012.12964.pdf)  
 **Maxwell Nye**, Yewen Pu, Matthew Bowers, Jacob Andreas, Josh Tenenbaum, Armando Solar-Lezama.  
 ICLR 2021.

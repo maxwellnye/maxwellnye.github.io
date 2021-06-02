@@ -1,8 +1,11 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+$link-color: #0066CC; // this is custom
+//$link-color: #1772d0;
+//$link-color: #f09228;
 
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes"; // mai:qn partials
