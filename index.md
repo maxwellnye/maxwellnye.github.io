@@ -24,6 +24,10 @@ An up-to-date list may be found at [Google Scholar](https://scholar.google.com/c
 Belinda Z. Li, **Maxwell Nye**, Jacob Andreas.  
 ACL 2021.
 
+- **A Large-Scale Benchmark for Few-Shot Program Induction and Synthesis.**  
+Ferran Alet, Javier Lopez-Contreras, James Koppel, **Maxwell Nye**, Armando Solar-Lezama, Tomas Lozano-Perez, Leslie Kaelbling, Josh Tenenbaum.  
+ICML 2021. Spotlight.
+
 - [**Representing Partial Programs with Blended Abstract Semantics.**](https://arxiv.org/pdf/2012.12964.pdf)  
 **Maxwell Nye**, Yewen Pu, Matthew Bowers, Jacob Andreas, Josh Tenenbaum, Armando Solar-Lezama.  
 ICLR 2021.
