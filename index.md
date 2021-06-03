@@ -20,7 +20,7 @@ I've spent time as an intern at Facebook AI Research. Before MIT, I received a B
 
 ## Publications
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en)  
-- **Implicit Representations of Meaning in Neural Language Models.**  
+- [**Implicit Representations of Meaning in Neural Language Models.**](https://arxiv.org/pdf/2106.00737.pdf)  
 Belinda Z. Li, **Maxwell Nye**, Jacob Andreas.  
 ACL 2021.
 
