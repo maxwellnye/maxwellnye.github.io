@@ -9,9 +9,12 @@ My research focus is program learning. Specifically, I work on the idea that lea
 
 My advisors are [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/). I also work with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/). 
 
-I've spent time as an intern at Facebook AI Research. Before MIT, I received a BA in physics from Harvard.  
+I am currently an intern at Google Brain, working with [Augustus Odena](https://www.augustusodena.com/) and [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) on deep learning for program synthesis.
+
+I've also spent time as an intern at Facebook AI Research. Before MIT, I received a BA in physics from Harvard.  
 
 ## Updates
+- Summer 2021: Internship at Google Brain with Augustus Odena and Charles Sutton on deep learning for program synthesis
 - Our paper [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964.pdf) was acccepted to ICLR 2021
 - Presented [Learning Compositional Rules via Neural Program Synthesis](https://arxiv.org/pdf/2003.05562.pdf) at NeurIPS 2020
 - Summer 2020: Internship at Facebook AI with Brenden Lake
