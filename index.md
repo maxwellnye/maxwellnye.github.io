@@ -37,7 +37,7 @@ In submission.
 
 - [**Communicating Natural Programs to Humans and Machines.**](https://arxiv.org/pdf/2106.07824.pdf)  
 Samuel Acquaviva, Yewen Pu, Marta Kryven, Catherine Wong, Gabrielle E Ecanow, **Maxwell Nye**, Theodoros Sechopoulos, Michael Henry Tessler, Josh Tenenbaum.  
-[preprint.](https://arxiv.org/pdf/2106.07824.pdf) [data.](https://github.com/samacqua/LARC)
+In submission. [data.](https://github.com/samacqua/LARC)
 
 - [**A Large-Scale Benchmark for Few-Shot Program Induction and Synthesis.**](http://proceedings.mlr.press/v139/alet21a/alet21a.pdf)  
 Ferran Alet\*, Javier Lopez-Contreras\*, James Koppel, **Maxwell Nye**, Armando Solar-Lezama, Tomas Lozano-Perez, Leslie Kaelbling, Josh Tenenbaum.  
