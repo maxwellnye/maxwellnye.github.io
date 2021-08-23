@@ -23,12 +23,24 @@ I've also spent time as an intern at Facebook AI Research. Before MIT, I receive
 
 ## Publications
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en)  
+- [**Program Synthesis with Large Language Models.**](https://arxiv.org/pdf/2108.07732.pdf)  
+Jacob Austin\*, Augustus Odena\*, **Maxwell Nye**, Maarten Bosma, Henryk Michalewski, David Dohan, Ellen Jiang, Carrie Cai, Michael Terry, Quoc Le, Charles Sutton.  
+2021.
+
 - [**Implicit Representations of Meaning in Neural Language Models.**](https://arxiv.org/pdf/2106.00737.pdf)  
 Belinda Z. Li, **Maxwell Nye**, Jacob Andreas.  
 ACL 2021.
 
-- **A Large-Scale Benchmark for Few-Shot Program Induction and Synthesis.**  
-Ferran Alet, Javier Lopez-Contreras, James Koppel, **Maxwell Nye**, Armando Solar-Lezama, Tomas Lozano-Perez, Leslie Kaelbling, Josh Tenenbaum.  
+- [**Improving Coherence and Consistency in Neural Sequence Models with Dual-System, Neuro-Symbolic Reasoning.**](https://arxiv.org/pdf/2107.02794.pdf)  
+**Maxwell Nye**, Michael Henry Tessler, Josh Tenenbaum, Brenden Lake.  
+In submission.
+
+- [**Communicating Natural Programs to Humans and Machines.**](https://arxiv.org/pdf/2106.07824.pdf)  
+Samuel Acquaviva, Yewen Pu, Marta Kryven, Catherine Wong, Gabrielle E Ecanow, **Maxwell Nye**, Theodoros Sechopoulos, Michael Henry Tessler, Josh Tenenbaum.  
+[preprint.](https://arxiv.org/pdf/2106.07824.pdf) [data.](https://github.com/samacqua/LARC)
+
+- [**A Large-Scale Benchmark for Few-Shot Program Induction and Synthesis.**](http://proceedings.mlr.press/v139/alet21a/alet21a.pdf)  
+Ferran Alet\*, Javier Lopez-Contreras\*, James Koppel, **Maxwell Nye**, Armando Solar-Lezama, Tomas Lozano-Perez, Leslie Kaelbling, Josh Tenenbaum.  
 ICML 2021. Spotlight.
 
 - [**Representing Partial Programs with Blended Abstract Semantics.**](https://arxiv.org/pdf/2012.12964.pdf)  
