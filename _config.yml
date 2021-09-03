@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Maxwell Nye"
   avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MIT PhD student studying AI, machine learning, and human intelligence"
+  bio              : "MIT PhD student studying AI, machine learning, and program synthesis"
   location         : "Cambridge, MA"
   email            : "mnye@mit.edu"
   uri              :
