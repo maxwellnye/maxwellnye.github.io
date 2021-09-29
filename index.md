@@ -34,7 +34,7 @@ ACL 2021. [[code]](https://github.com/belindal/state-probes)
 
 - [**Improving Coherence and Consistency in Neural Sequence Models with Dual-System, Neuro-Symbolic Reasoning.**](https://arxiv.org/pdf/2107.02794.pdf)  
 **Maxwell Nye**, Michael Henry Tessler, Josh Tenenbaum, Brenden Lake.  
-In submission.
+NeurIPS 2021.
 
 - [**Communicating Natural Programs to Humans and Machines.**](https://arxiv.org/pdf/2106.07824.pdf)  
 Samuel Acquaviva, Yewen Pu, Marta Kryven, Catherine Wong, Gabrielle E Ecanow, **Maxwell Nye**, Theodoros Sechopoulos, Michael Henry Tessler, Josh Tenenbaum.  
