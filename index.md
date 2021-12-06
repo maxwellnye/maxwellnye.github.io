@@ -15,6 +15,7 @@ I am currently an intern at Google Brain, working with [Augustus Odena](https://
 I've also spent time as an intern at Facebook AI Research. Before MIT, I received a BA in physics from Harvard.  
 
 ## Updates
+- New paper on Arxiv: [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/abs/2112.00114) [(Tweet)](https://twitter.com/Maxwell_Nye/status/1466229884385177612)
 - Summer 2021: Internship at Google Brain with Augustus Odena and Charles Sutton. Check out our paper on [program synthesis with large langauge models](https://arxiv.org/pdf/2108.07732.pdf)!
 - Our paper [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964.pdf) was acccepted to ICLR 2021
 - Presented [Learning Compositional Rules via Neural Program Synthesis](https://arxiv.org/pdf/2003.05562.pdf) at NeurIPS 2020
@@ -24,6 +25,10 @@ I've also spent time as an intern at Facebook AI Research. Before MIT, I receive
 
 ## Publications
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en)  
+- [**Show Your Work: Scratchpads for Intermediate Computation with Language Models**](https://arxiv.org/pdf/2112.00114.pdf)  
+**Maxwell Nye**, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena.  
+2021\.
+
 - [**Program Synthesis with Large Language Models.**](https://arxiv.org/pdf/2108.07732.pdf)  
 Jacob Austin\*, Augustus Odena\*, **Maxwell Nye**, Maarten Bosma, Henryk Michalewski, David Dohan, Ellen Jiang, Carrie Cai, Michael Terry, Quoc Le, Charles Sutton.  
 2021\. [[data]](https://github.com/google-research/google-research/tree/master/mbpp)
