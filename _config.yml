@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Maxwell Nye"
   avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MIT PhD student studying AI, machine learning, and program synthesis"
-  location         : "Cambridge, MA"
+  bio              : "ML researcher trying to get computers to automatically write code."
+  location         : "San Francisco, CA"
   email            : "mnye@mit.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
