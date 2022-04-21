@@ -2,19 +2,17 @@
 layout: single
 author_profile: true
 ---
-I'm a PhD student at MIT, studying AI, machine learning, and program synthesis.  
+I'm a Machine Learning researcher trying to get computers to automatically write code. I'm working on something new—more details soon!
 
-I work on the idea that learning programs from data could produce machines which possess more human-like intelligence. My research has two aims:  
-1. Developing novel methods for synthesizing programs, combining deep learning and symbolic techniques.  
-2. Applying program synthesis to build human-like AI models to solve concept learning and reasoning tasks.  
+I recently received a PhD from MIT, where I was advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/).
+I also worked with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/). My research focus at MIT was program synthesis: using deep learning as well as symbolic techniques to automatically write programs. 
 
-My advisors are [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/). I also work with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/). 
+I interned at Google Brain, working with [Augustus Odena](https://www.augustusodena.com/) and [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/). We used very large language models (>100 billion parameters) to [write](https://arxiv.org/abs/2108.07732) and [understand](https://arxiv.org/abs/2112.00114) Python programs.
 
-I am currently an intern at Google Brain, working with [Augustus Odena](https://www.augustusodena.com/) and [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/) on deep learning for program synthesis.
-
-I've also spent time as an intern at Facebook AI Research. Before MIT, I received a BA in physics from Harvard.  
+I've also spent time as an intern at Facebook AI Research. Before MIT, I studied physics at Harvard.
 
 ## Updates
+- I defended my thesis and graduated from MIT! Thanks so much to everybody I worked with at MIT.
 - We posted our new "scratchpad" paper on Arxiv: [paper](https://arxiv.org/abs/2112.00114), [tweet](https://twitter.com/Maxwell_Nye/status/1466229884385177612).
 - Summer 2021: Internship at Google Brain with Augustus Odena and Charles Sutton. Check out our paper on [program synthesis with large langauge models](https://arxiv.org/pdf/2108.07732.pdf)!
 - Our paper [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964.pdf) was acccepted to ICLR 2021
