@@ -82,7 +82,7 @@ ICLR 2018, workshop.
 *equal contribution
 
 ## Education
-- **MIT** (2017 - present)   
+- **MIT** (2017 - 2022)   
   PhD. Research Areas: Machine Learning and Program Synthesis  
    Advisors: Josh Tenenbaum and Armando Solar-Lezama
 - **Harvard University** (2013 - 2017)   
