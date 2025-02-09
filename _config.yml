@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Maxwell Nye"
   avatar           : "/assets/images/biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ML researcher trying to get computers to write code."
+  bio              : ""
   location         : "San Francisco, CA"
   email            : "mnye717@gmail.com"
   uri              :

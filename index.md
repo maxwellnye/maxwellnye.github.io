@@ -2,24 +2,19 @@
 layout: single
 author_profile: true
 ---
-I'm a Machine Learning researcher trying to get computers to automatically write code. I'm working on something new—more details soon!
+I was a co-founder of [Adept](https://www.adept.ai/) and am now a scientist at Amazon AGI.
 
-I recently received a PhD from MIT, where I was advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/).
-I also worked with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/). My research focus at MIT was program synthesis: using deep learning as well as symbolic techniques to automatically write programs. 
+I led the [Scratchpad](https://arxiv.org/abs/2112.00114) project ([tweet](https://x.com/Maxwell_Nye/status/1466229884385177612)), inventing a technique for enabling transformers to perform multi-step reasoning (now commonly known as chain of thought), which is a foundation of many [modern](https://openai.com/o1/) [AI](https://ai.google.dev/gemini-api/docs/thinking) [systems](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought). I jointly hold the [patent for chain of thought](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NsuX8R8AAAAJ&cstart=20&pagesize=80&citation_for_view=NsuX8R8AAAAJ:MXK_kJrjxJIC).
 
-I interned at Google Brain, working with [Augustus Odena](https://www.augustusodena.com/) and [Charles Sutton](https://homepages.inf.ed.ac.uk/csutton/). We used very large language models (>100 billion parameters) to [write](https://arxiv.org/abs/2108.07732) and [understand](https://arxiv.org/abs/2112.00114) Python programs.
+During my PhD, I spent time at Google Brain, working with [Augustus Odena](https://www.augustusodena.com/). In addition to Scratchpad, we also did some of the early work using large language models to automatically [write programs](https://arxiv.org/abs/2108.07732).
 
-I've also spent time as an intern at Facebook AI Research. Before MIT, I studied physics at Harvard.
+I received my PhD from MIT. I was advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/).
+I also worked with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/).
+My research focus at MIT was program synthesis: using deep learning as well as symbolic techniques to automatically write programs. 
 
-## Updates
-- I defended my thesis and graduated from MIT! Thanks so much to everybody I worked with at MIT.
-- We posted our new "scratchpad" paper on Arxiv: [paper](https://arxiv.org/abs/2112.00114), [tweet](https://twitter.com/Maxwell_Nye/status/1466229884385177612).
-- Summer 2021: Internship at Google Brain with Augustus Odena and Charles Sutton. Check out our paper on [program synthesis with large langauge models](https://arxiv.org/pdf/2108.07732.pdf)!
-- Our paper [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964.pdf) was acccepted to ICLR 2021
-- Presented [Learning Compositional Rules via Neural Program Synthesis](https://arxiv.org/pdf/2003.05562.pdf) at NeurIPS 2020
-- Summer 2020: Internship at Facebook AI with Brenden Lake
-- Presented [Write, Execute, Assess: Program Synthesis with a REPL](https://arxiv.org/pdf/1906.04604.pdf) at NeurIPS 2019
-- Our paper [Learning to Infer Program Sketches](https://arxiv.org/pdf/1902.06349.pdf) was accepted to ICML 2019 and featured on [MIT News](http://news.mit.edu/2019/toward-artificial-intelligence-that-learns-to-write-code-0614)
+I've also spent time as an intern at Facebook AI Research.
+
+Before MIT, I studied physics at Harvard.
 
 ## Publications
 An up-to-date list may be found at [Google Scholar](https://scholar.google.com/citations?user=NsuX8R8AAAAJ&hl=en)  
@@ -80,11 +75,3 @@ UAI 2018, oral presentation. [[code]](https://github.com/insperatum/vhe)
 ICLR 2018, workshop.
 
 *equal contribution
-
-## Education
-- **MIT** (2017 - 2022)   
-  PhD. Research Areas: Machine Learning and Program Synthesis  
-   Advisors: Josh Tenenbaum and Armando Solar-Lezama
-- **Harvard University** (2013 - 2017)   
-    BA, Physics  
-    Advisor: Haim Sompolinsky
