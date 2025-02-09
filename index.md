@@ -10,7 +10,7 @@ During my PhD, I spent time at Google Brain, working with [Augustus Odena](https
 
 I received my PhD from MIT. I was advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/).
 I also worked with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/).
-My research focus at MIT was program synthesis: using deep learning as well as symbolic techniques to automatically write programs. 
+My research focus at MIT was program synthesis: using deep learning as well as symbolic techniques to automatically write programs.
 
 I've also spent time as an intern at Facebook AI Research.
 
