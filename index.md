@@ -2,11 +2,13 @@
 layout: single
 author_profile: true
 ---
-I was a co-founder of [Adept](https://www.adept.ai/) and am now a scientist at Amazon AGI.
+I co-founded [Adept](https://www.adept.ai/).
+We built the first [computer use agents](https://www.adept.ai/blog/act-1) and the [Fuyu](https://www.adept.ai/blog/fuyu-8b) [family](https://www.adept.ai/blog/adept-fuyu-heavy) of multimodal models.
+We exited to Amazon, where I am now a scientist.
 
-I led the [Scratchpad](https://arxiv.org/abs/2112.00114) project ([tweet](https://x.com/Maxwell_Nye/status/1466229884385177612)), inventing a technique for enabling transformers to perform multi-step reasoning (now commonly known as chain of thought), which is a foundation of many [modern](https://openai.com/o1/) [AI](https://ai.google.dev/gemini-api/docs/thinking) [systems](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought). I jointly hold the [patent for chain of thought](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NsuX8R8AAAAJ&cstart=20&pagesize=80&citation_for_view=NsuX8R8AAAAJ:MXK_kJrjxJIC).
+I led the [Scratchpad](https://arxiv.org/abs/2112.00114) project (see [tweet](https://x.com/Maxwell_Nye/status/1466229884385177612)), inventing a technique for enabling transformers to perform multi-step reasoning. This technique, now commonly known as chain of thought, is the foundation of all [modern](https://openai.com/o1/) [reasoning](https://ai.google.dev/gemini-api/docs/thinking) [systems](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought). I jointly hold the [patent](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NsuX8R8AAAAJ&cstart=20&pagesize=80&citation_for_view=NsuX8R8AAAAJ:KlAtU1dfN6UC) for chain of thought.
 
-During my PhD, I spent time at Google Brain, working with [Augustus Odena](https://www.augustusodena.com/). In addition to Scratchpad, we also did some of the early work using large language models to automatically [write programs](https://arxiv.org/abs/2108.07732).
+During my PhD, I spent time at Google Brain, working with my future Adept co-founder [Augustus Odena](https://www.augustusodena.com/). In addition to Scratchpad, we also did some of the early work using large language models to automatically [write programs](https://arxiv.org/abs/2108.07732).
 
 I received my PhD from MIT. I was advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/).
 I also worked with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/).
