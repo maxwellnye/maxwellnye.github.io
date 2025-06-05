@@ -10,7 +10,7 @@ I am the lead inventor of the [Scratchpad](https://arxiv.org/abs/2112.00114) tec
 This technique, now commonly known as chain of thought, is the foundation of all modern [AI](https://openai.com/o1/) [reasoning](https://ai.google.dev/gemini-api/docs/thinking) [systems](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-of-thought).
 I jointly hold the [patent](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NsuX8R8AAAAJ&cstart=20&pagesize=80&citation_for_view=NsuX8R8AAAAJ:KlAtU1dfN6UC) for chain of thought.
 
-During my PhD, I spent time at Google Brain, working with my future Adept co-founder [Augustus Odena](https://www.augustusodena.com/). In addition to Scratchpad, we also did some of the early work using large language models to automatically [write programs](https://arxiv.org/abs/2108.07732).
+During my PhD, I spent time at Google Brain, working with my Adept co-founder [Augustus Odena](https://www.augustusodena.com/). In addition to Scratchpad, we also did some of the early work using large language models to automatically [write programs](https://arxiv.org/abs/2108.07732).
 
 I received my PhD from MIT. I was advised by [Josh Tenenbaum](https://web.mit.edu/cocosci/josh.html) and [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/).
 I also worked with [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU/Facebook AI) and [Jacob Andreas](https://www.mit.edu/~jda/).
